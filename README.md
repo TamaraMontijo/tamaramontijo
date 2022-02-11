@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### I am a Brazilian Software Engineer and my purpose is to create a better world by building impactful applications.
+
+After acquiring some experience in digital marketing working with global teams for clients like Google, I attended Le Wagon's coding Bootcamp in Lisbon (Portugal) in order to understand the programming universe and help build impactful applications.
+
+I've been working remotely as a frontend developer since 2020 and my current stack is based on JavaScript, HTML5, CSS3, AngularJS, ReactJS, and React Native. But also, I love discovering new technologies.
+
+
 <!--
 **TamaraMontijo/tamaramontijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
