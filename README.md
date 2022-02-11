@@ -1,11 +1,10 @@
-### Hi there 👋
 
-### I am a Brazilian Software Engineer and my purpose is to create a better world by building impactful applications.
 
-After acquiring some experience in digital marketing working with global teams for clients like Google, I attended Le Wagon's coding Bootcamp in Lisbon (Portugal) in order to understand the programming universe and help build impactful applications.
+Hi there, I'm Tamara 👋
 
-I've been working remotely as a frontend developer since 2020 and my current stack is based on JavaScript, HTML5, CSS3, AngularJS, ReactJS, and React Native. But also, I love discovering new technologies.
+I am a Brazilian Software Engineer passionate about changing people's lives through programming.
 
+Enthusiast of the best web & mobile development technologies. Currently focused on OmniStack (NodeJS, ReactJS and React Native).
 
 <!--
 **TamaraMontijo/tamaramontijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
