@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Tamara</h1>
 <h3 align="center">I am a Brazilian Software Engineer passionate about changing people's lives through programming.</h3>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaramontijo)](https://github.com/tamaramontijo/github-readme-stats)
+
 - 🔭 I’m currently working on [BRB Completo](https://brbcompleto.com.br/)
 
 - 🌱 I’m currently learning **Backend development with C# and .Net**
