@@ -1,10 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Tamara Montijo!
 
-I'm a Brazilian Software Engineer with over 4 years of experience in Full-Stack Development, with a focus on front-end technologies.
-
-Since 2020, I've been working remotely as a Front-end Developer. My current tech stack includes TypeScript, Angular, C#, and .NET. I am also passionate about exploring new technologies and occasionally work with React, React Native, Next.js, and Node.js.
-
-Most of my code and contributions are in private repositories on other platforms, as I work with financial institutions and must comply with the LGPD (General Data Protection Law).
+Since 2020, I've been working remotely as a Front-end developer, focusing on front-end technologies. Most of my code and contributions are in private repositories on other platforms, as I work with financial institutions and must comply with the LGPD (General Data Protection Law).
 
 Feel free to reach out if you have any questions!
 
