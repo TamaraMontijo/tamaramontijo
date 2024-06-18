@@ -51,7 +51,7 @@ Feel free to reach out if you have any questions!
 
 📚 Currently working with Angular, TypeScript, .Net and C#
 
-🎮 When I'm not doing anything related to programming or having fun with my husband and kid, my distractions include traveling, dancing and eating all kind of foods.
+🎶 When I'm not doing anything related to programming or having fun with my husband and kid, my distractions include traveling, dancing and eating all kind of foods.
 
 ## Get in touch:
 
