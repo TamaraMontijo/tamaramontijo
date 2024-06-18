@@ -20,8 +20,9 @@ Feel free to reach out if you have any questions!
 
 <p align="left">
 <div align="left">
-<a href="https://angular.dev/" target="_blank"><img height="40" src="img/angular.svg" alt="Angular"></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="img/dotnet.svg" alt="Dotnet"></a>
+<a href="https://angular.dev/" target="_blank"><img height="40" src="img/angular.png" alt="Angular"></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="img/dotnet.png" alt="Dotnet"></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img height="40" src="img/csharp.png" alt="csharp"></a>
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="img/react.svg" alt="React"></a>
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="img/nextjs.svg" alt="NextJs"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="img/typescript.svg" alt="TypeScript"></a>
