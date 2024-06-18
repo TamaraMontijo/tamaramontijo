@@ -54,4 +54,4 @@ Feel free to reach out if you have any questions!
 
 ## Get in touch:
 
-<a href="https://www.linkedin.com/in/tamaramontijo/?locale=en_US" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn Marcelo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/tamaramontijo/?locale=en_US" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn Tamara" height="40" width="40" /></a>
