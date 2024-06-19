@@ -1,10 +1,10 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Tamara Montijo!
 
-Since 2020, I've been working remotely as a Front-end developer, focusing on front-end technologies. Most of my code and contributions are in private repositories on other platforms, as I work with financial institutions and must comply with the LGPD (General Data Protection Law).
+Since 2020, I've been working remotely as a full-stack developer, focusing on front-end technologies. Most of my code and contributions are in private repositories on other platforms, as I work with financial institutions and must comply with the LGPD (General Data Protection Law).
 
 Feel free to reach out if you have any questions!
 
-## Key Achievements:
+## Professional Highlights:
 
 💰 Software Solutions: Developed applications that significantly improved Brasília's Bank sales data management, resulting in a 110% increase in insurance and credit sales within the first quarter.
 
