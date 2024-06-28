@@ -27,10 +27,7 @@ Feel free to reach out if you have any questions!
 <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="img/css.svg" alt="CSS3"></a>
 <a href="https://www.figma.com/" target="_blank"><img height="40" src="img/figma.svg" alt="Figma"></a>
 <a href="https://nodejs.org/" target="_blank"><img height="40" src="img/nodejs.svg" alt="Node.js"></a>
-<a href="https://redux.js.org/" target="_blank"><img height="40" src="img/redux.svg" alt="Redux"></a>
-<a href="https://sass-lang.com/" target="_blank"><img height="40" src="img/sass.svg" alt="Sass"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img height="40" src="img/tailwind.svg" alt="Tailwind"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img height="40" src="img/bootstrap.svg" alt="Bootstrap"></a>
 <a href="https://www.postman.com/" target="_blank"><img height="40" src="img/postman.svg" alt="Postman"></a>
 <a href="https://vercel.com/" target="_blank"><img height="40" src="img/vercel.svg" alt="Vercel"></a>
 <a href="https://www.netlify.com/" target="_blank"><img height="40" src="img/netlify.svg" alt="Netlify"></a>
