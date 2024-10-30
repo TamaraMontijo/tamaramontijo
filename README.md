@@ -42,7 +42,7 @@ Feel free to reach out if you have any questions!
 
 🎓 Graduated in Communications with MA in Design
 
-📚 Currently working with Angular, TypeScript, .Net and C#
+📚 Currently working with Angular, ReactJs, React Native, TypeScript, and Firebase.
 
 🎶 When I'm not doing anything related to programming or having fun with my husband and kid, my distractions include traveling, dancing and eating all kind of foods.
 
