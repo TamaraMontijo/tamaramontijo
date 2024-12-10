@@ -24,7 +24,5 @@ Feel free to reach out if you have any questions!
 
 ## Get in touch:
 
-Enthusiast of the best web & mobile development technologies.
-
 <a href="https://www.linkedin.com/in/tamaramontijo/?locale=en_US" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn Tamara" height="40" width="40" /></a>
 
